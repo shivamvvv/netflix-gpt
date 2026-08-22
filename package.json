@@ -20,6 +20,7 @@
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^4.3.4",
     "oxlint": "^1.75.0",
+    "react-router-dom": "^7.18.2",
     "vite": "^7.1.0"
   }
 }
