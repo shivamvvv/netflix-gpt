@@ -1,8 +1,20 @@
 # Netflix-GPT
+
 A netflix clone with the support of AI
 
 - create vite app
 - configure tailwind css
+- Header
+- Routing of app
+- login app
+- Sign up form
+- Form Validation
+- useRef Hook
+- firebase setup
+- Deploying our app to production
+- created signup user account
+- implemented Sign in user api
+- created redux store with userSlice
 
 # Features
 
